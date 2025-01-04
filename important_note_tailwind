@@ -1,0 +1,11 @@
+......tailwind shortcut.......
+kuno custom property/value jodi tailwind e use korte hoi tkn jevabe likte hobe:
+
+<h2 class="text-[#FABE4C]">Be the Penguins</h2>
+evabei muloto kuno custom property tailwind e likte hoi,ortat likboto html tag e class er vitore kintu  likar syntex hocce etai jmn:
+
+class="text-[#FABE4C]">
+class="bg-[#FABE4C]">
+class="border-[#FABE4C]">
+
+evabe kuno tag er class er vitore tailwind er class name(bg/border) then hypen diye 3rd bracket er vitore oi custom property/value/colorname ta.
